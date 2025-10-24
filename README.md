@@ -42,7 +42,7 @@ tacar_pedra termina o jogo.
 
 Requisitos
 
-Python 3.x
+Python 3.13
 
 Como Contribuir
 
